@@ -1,0 +1,3 @@
+# Conflicting Attribute and Style for Element Visibility
+
+This repository demonstrates an uncommon HTML bug related to inconsistencies when using both inline CSS (`style`) and HTML attributes (`hidden`) to control element visibility.  The bug arises from unexpected behavior when both methods are employed simultaneously and highlights the precedence and potential conflict between these two approaches. The `bug.html` file shows the issue, and `bugSolution.html` offers two solutions: using only one of the methods to avoid ambiguity.
